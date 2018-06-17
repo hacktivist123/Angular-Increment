@@ -1,2 +1,2 @@
-# Angular-Increment
-An Increment and decrement App with Javascript and Type script
+# TS-Counter
+An Counter with Javascript and Type script
