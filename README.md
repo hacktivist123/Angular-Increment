@@ -1,2 +1,2 @@
 # TS-Counter
-An Counter with Javascript and Type script
+A Counter with Javascript and Type script
